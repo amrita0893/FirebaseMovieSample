@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "128437152435",
+    "firebase_url": "https://fir-moviessample-5e5c2.firebaseio.com",
+    "project_id": "fir-moviessample-5e5c2",
+    "storage_bucket": "fir-moviessample-5e5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128437152435:android:0317680811540838",
+        "android_client_info": {
+          "package_name": "com.brillicaservices.gurjas.firebasemoviessample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128437152435-gjl7ndispm8r7pdfa8llu8q8c3pd0lbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUM6kywC8EInNesZbIcINublhHLcfeqyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
